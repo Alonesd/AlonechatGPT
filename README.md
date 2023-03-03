@@ -1,11 +1,5 @@
 # AlonechatGPT
-chatGPT、Discord、 是桌面         
-API：支持  
-# 系统环境 
-Windows：支持         
-macOS：支持       
-Linux：支持     
-  
+chatGPT、Discord、 是桌面          
 # 产品
 产品名称：ChatGPT      
 产品名称：Discord        
@@ -24,7 +18,18 @@ bilibili：
 Hyperbeam       
 YouTube：https://www.youtube.com/watch?v=qZdmiRRMcT8            
 WeChat：        
-bilibili：        
+bilibili：  
+# 系统环境 
+Windows：支持         
+macOS：支持       
+Linux：支持
+# 接口端
+API：支持 
+
+# 产品官网
+ChatGPT--官网：https://openai.com/        
+ Discord--官网：https://discord.com/login                       
+ Hyperbeam--官网：https://hyperbeam.com/index.html 
 
 # 温馨提示：注意⚠️事项
 1⃣️API不要接到WeChat⬆️容易被WeChat封🆔、预测是不能申请解除🆔。       
